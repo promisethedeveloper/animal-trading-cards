@@ -7,7 +7,7 @@ This project combined HTML and CSS to recreate a web pages from a design prototy
 Clone this GitHub repository
 ```
 
-$ git clone https://github.com/github/animal-trading-cards.git
+$ git clone https://github.com/promisethedeveloper/animal-trading-cards.git
 
 $ cd animal-trading-cards
 ```
